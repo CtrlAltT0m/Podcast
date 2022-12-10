@@ -1,4 +1,4 @@
-### The CtrlAltT0m Cyber Sec Podcast
+# The CtrlAltT0m Cyber Sec Podcast
 
 ## Podcast Episodes:
 
@@ -7,4 +7,4 @@
 - Ep 1 - Podcast Inroduction: http://tun.in/tpsF0A
 - Ep 2 - Cyber Sec Learning Platforms: http://tun.in/tpsF0A
 
-# Podcast Links and Resoueses: https://github.com/CtrlAltT0m/Podcast/blob/main/EpisodeResources
+### Podcast Links and Resoueses: https://github.com/CtrlAltT0m/Podcast/blob/main/EpisodeResources
