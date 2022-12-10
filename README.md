@@ -1,5 +1,7 @@
 # The CtrlAltT0m Cyber Sec Podcast
 
+![BANNER](https://github.com/CtrlAltT0m/podcast/blob/main/Welcome.gif)
+
 ## Podcast Episodes:
 
 Station: https://tunein.com/radio/CtrlAltT0m-Cyber-Sec-PODCAST-p3080339/?topicId=223553431
